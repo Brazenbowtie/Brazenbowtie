@@ -1,6 +1,6 @@
 Hi, I’m @Brazenbowtie
 
-I’m currently working HTML/CSS/Javascript, Node.js, Go, and Java
+I’m currently working with HTML/CSS/Javascript, and learning all the tools that go with them!
 
 nardcm@gmail.com
 
